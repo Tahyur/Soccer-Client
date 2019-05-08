@@ -1,7 +1,7 @@
 # Soccer-Client
 A Client that consumes the Soccer REST Api
 
-This project follows the MVC Architectural pattern
+This maven project follows the MVC Architectural pattern
 
 IT is divided into 3 different layers
 * Front End
@@ -9,10 +9,10 @@ IT is divided into 3 different layers
 * Endpoints
 
 Technologies used here inludes
-JavaScript
-JQuery
-Java
-Spring Form
-AJAX
-HTML
-CSS
+* JavaScript
+* JQuery
+* Java
+* Spring Form
+* AJAX
+* HTML
+* CSS
